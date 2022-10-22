@@ -11,7 +11,7 @@ html {
     align-items: center;
     height: 100vh;
     overflow: hidden;
-    background-color: azure;
+    background-color: rgb(81, 79, 98);
 }
 
 #container {
@@ -54,7 +54,7 @@ button {
 }
 
 .operator {
-    background-color: #FF8F1F;    
+    background-color: #41ff1f;    
 }
 
 .operator:focus {
@@ -62,7 +62,7 @@ button {
 }
 
 .equals {
-    background-color: #FF8F1F;
+    background-color: #23ff1f;
 }
 
 .equals:active {
@@ -70,7 +70,7 @@ button {
 }
 
 .operand {
-    background-color: #217C7E;
+    background-color: #5d0c78;
 }
 
 .operand:active {
@@ -90,7 +90,7 @@ button {
 }
 
 .clear:active {
-    background-color: rgb(123, 189, 255);
+    background-color: rgb(99, 210, 19);
 }
 
 .sign {
